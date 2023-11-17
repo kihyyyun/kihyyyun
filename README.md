@@ -7,7 +7,7 @@
 
 <details>
 <summary>
-  배우는 중
+  ✏️ Studying
 </summary>
    <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
 
