@@ -3,7 +3,7 @@
 
 ### Hi, there 👋
 
-📖기록용 공간
+📖기록용 
 
 <details>
 <summary>
