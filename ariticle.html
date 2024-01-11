@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>home</title>
+</head>
+<body>
+<div>
+    <h1>게시판 홈페이지</h1>
+    <ul>
+        <!-- 게시판 링크. 게시판 ID는 동적으로 설정 -->
+        <li><a th:href="@{/board/view/{id}(id=1)}">자유 게시판</a></li>
+        <li><a th:href="@{/board/view/{id}(id=2)}">개발 게시판</a></li>
+        <li><a th:href="@{/board/view/{id}(id=3)}">일상 게시판</a></li>
+        <li><a th:href="@{/board/view/{id}(id=4)}">사건사고 게시판</a></li>
+    </ul>
+</div>
+</body>
+</html>
